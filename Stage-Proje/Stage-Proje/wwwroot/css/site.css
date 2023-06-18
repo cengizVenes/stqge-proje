@@ -1,0 +1,448 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.renk-header {
+    background-color: #333;
+}
+
+.fs12 {
+    font-size: 12px;
+}
+
+.fs16 {
+    font-size: 16px;
+}
+
+.fs14 {
+    font-size: 14px;
+}
+
+.fs52 {
+    font-size: 52px;
+}
+
+.fs50 {
+    font-size: 50px;
+}
+
+.font-600 {
+    font-weight: 600;
+}
+
+.font-800 {
+    font-weight: 800;
+}
+
+.font-700 {
+    font-weight: 700;
+}
+
+.font-400 {
+    font-weight: 400;
+}
+
+.justify-content-end {
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+.m-- {
+    margin-right: -215px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.renk {
+    color: #92989d;
+}
+
+    .renk:hover {
+        color: #92989d;
+        border-bottom: 2px solid #92989d;
+    }
+
+.container1 {
+    width: 1200px;
+}
+
+.btn-primary {
+    background-color: #339af0;
+}
+
+    .btn-primary:hover {
+        background-color: #339af0;
+    }
+
+.bttn {
+    border-radius: 40px;
+    padding: 12px 32px;
+}
+
+.borderbox {
+    box-sizing: border-box;
+}
+
+.ms-6 {
+    margin-left: 55px !important;
+}
+
+.bg-grey {
+    background-color: #212529;
+}
+
+.p-6 {
+    padding: 60px 0px 130px 0px;
+}
+
+.yuvarlak {
+    margin: 0px 1px 0px 1px;
+    border-radius: 50%;
+    background-color: #91979c12;
+    width: 70px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+    .yuvarlak:hover {
+        transition: 0.3s;
+        background-color: #8c8c8c;
+    }
+
+.blue {
+    justify-content: end;
+    display: flex;
+    align-items: center;
+    padding: 10px 45px 10px 45px;
+    border-radius: 40px;
+    background-color: #91979c12;
+    color: #339af0 !important;
+}
+
+    .blue :hover {
+        color: #339af0 !important;
+    }
+
+.mt-6 {
+    margin-top: 100px;
+}
+
+.me-6 {
+    margin-right: 85px;
+}
+
+.qr {
+    height: 150px;
+
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.renkfooter {
+    color: #92989d;
+}
+
+.mobilbaglanti {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    margin-left: -80px;
+}
+
+.ortalama {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ortala {
+    margin-top: 150px;
+}
+
+.myx {
+    margin-top: 190px;
+}
+
+.mt240 {
+    margin-top: 240px;
+}
+
+.my- {
+    margin-top: -20px;
+}
+
+.coloblue {
+    color: #339af0;
+}
+
+.color333 {
+    color: #333;
+}
+
+.bgresim {
+    background-image: url("../img/index/bg-shadow.png");
+    background-repeat: no-repeat;
+    background-position: 225px 0px;
+    height: 750px;
+}
+
+.acikbeyaz {
+    background-color: #f3f7fa;
+}
+
+.heigt74 {
+    height: 745px;
+}
+
+.renkkoyumavi {
+    height: 448px;
+    border-radius: 15px;
+    background-color: #005cb9;
+    z-index: -21231312313;
+}
+
+.renkkoyu {
+    color: #005cb9;
+}
+
+.z {
+    z-index: 11;
+}
+
+.acikrenktext {
+    color: #249af0;
+}
+
+.fs22 {
+    font-size: 22px;
+}
+
+.fs25 {
+    font-size: 25px;
+}
+
+.fs30 {
+    font-size: 30px;
+}
+
+.fs46 {
+    font-size: 46px;
+}
+
+.fs18 {
+    font-size: 18px;
+}
+
+.radius {
+    border-radius: 40px;
+}
+
+.baloncugng {
+    background-image: url("../img/index/baloncuk.png");
+}
+
+.kare {
+    border-radius: 10px;
+    height: 278px;
+    width: 278px;
+}
+
+.bax_sadow {
+    box-shadow: 0 15px 15px -10px rgba(51,51,51,.15);
+}
+
+.lineheight {
+    line-height: 1;
+}
+
+.border-1 {
+    border: 1px solid #eef2f6;
+}
+
+.my6 {
+    margin: 80px 0px;
+}
+
+.py6 {
+    padding: 80px 0px;
+}
+
+.ms- {
+    margin-left: -150px;
+}
+
+.sari {
+    color: #ffc107;
+}
+
+.kalin {
+    font-weight: bold;
+}
+
+.btn-border {
+    border: 1px solid #33333312;
+    border-radius: 40px;
+}
+
+    .btn-border:hover {
+        border: 0px;
+    }
+
+.btn-c {
+    color: #339af0;
+}
+
+    .btn-c:hover {
+        color: #eef2f6 !important;
+        transition: 0.2s;
+    }
+
+.btn-bg {
+    background-color: #91979c12;
+}
+
+    .btn-bg:hover {
+        background-color: #339af0;
+        transition: 0.2s;
+    }
+
+
+.py-15 {
+    padding: 14px 120px 14px 120px;
+}
+
+.py-7 {
+    padding: 100px 0px 100px 0px;
+}
+
+.bg-su {
+    background-image: url("../img/index/download.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fs60 {
+    font-size: 60px;
+}
+
+.fs24 {
+    font-size: 24px;
+}
+
+.fs36 {
+    font-size: 36px;
+}
+
+.marka {
+    width: 270px;
+    height: 155px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.yukari {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    background-color: #339af0;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.boyut {
+    width: 30px;
+    height: 30px;
+    filter: invert(100%) sepia(100%) saturate(0) hue-rotate(345deg) brightness(101%) contrast(101%);
+}
+
+.mt-ince {
+    margin-top: 12px;
+}
+
+.su {
+    display: flex;
+    align-items: center;
+    justify-content: end
+}
+
+.border-radius {
+    border-radius: 40px;
+}
+
+.border-radius1 {
+    border-radius: 10px !important;
+}
+
+.imgsize {
+    height: 262px;
+    width: 573px;
+}
+
+.bg-su1 {
+    background-image: url("../img/bisu/indir.jpg");
+}
+
+.bg-su2 {
+    background-image: url("../img/bisu/indir (1).jpg");
+}
+
+.bg-su3 {
+    background-image: url("../img/bisu/indir (2).jpg");
+}
+
+.ortabas {
+    display: flex;
+    align-items: center
+}
+
+.lineheight2 {
+    line-height: 1.2;
+}
+
+.yuvarlak2 {
+    height: 12px;
+    width: 12px;
+    border-radius: 50%;
+    background-color: #93c8f5;
+}
+
+.mt--1 {
+    margin-top: -10px;
+}
+
+.boyuttcuk {
+    width: 382px !important;
+}
+
+.card {
+    width: 382px !important;
+}
+
+.ms-- {
+    margin-left: -12px;
+}
+
+.bordercuk {
+    border: 1px solid #33333312;
+}
+.bgf1 {
+    background-color: #f1f1f1;
+}
+.buyukluk {
+    padding: 10px 100px 10px 100px;
+}
+.mb-6{
+    margin-bottom:100px;
+}
+.lineheight29{
+    line-height:29px;
+}
+.mt--{margin-top:-15px;}
